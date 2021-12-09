@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D4CB27DE-21BA-40BB-A05D-EF96D8132458"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "263EA2EC-88D9-4942-80C1-F3DA8ED37DBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/ViewModels/NewsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC218022-13DF-4ADB-94E5-97409385A0AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "abstract"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AEA97B4-6342-4A10-9A18-8F69BA05E864"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsListGroup/ViewModels/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "title"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1838A265-0B36-43F3-9A74-D2A3B70BA4D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "articleAtIndex(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78A528F9-874A-4747-B604-D3A98FBD0057"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsListGroup/Controllers/NewListTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDB25FDF-CB65-4C91-BE08-2EC5ADF42204"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "articleAtIndex(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDB25FDF-CB65-4C91-BE08-2EC5ADF42204 - 147660db22f06250"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMVVM.DetailsListVM.articleAtIndex(Swift.Int) -&gt; Swift.Optional&lt;NewsMVVM.DetailsViewModel&gt;"
+                  moduleName = "NewsMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saadbarhoun/Desktop/NYTimes-CodeChallenge-SaadBarhoun/NY%20Times%20News/NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "BDB25FDF-CB65-4C91-BE08-2EC5ADF42204 - 147660db22f06231"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMVVM.DetailsListVM.articleAtIndex(Swift.Int) -&gt; Swift.Optional&lt;NewsMVVM.DetailsViewModel&gt;"
+                  moduleName = "NewsMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saadbarhoun/Desktop/NYTimes-CodeChallenge-SaadBarhoun/NY%20Times%20News/NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "605">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B3D442C-CA65-4707-8F39-6CA64D886F5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsListGroup/ViewModels/NewsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "articleAtIndex(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B3D442C-CA65-4707-8F39-6CA64D886F5B - a1a7809ffd49200a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMVVM.NewsListViewModel.articleAtIndex(Swift.Int) -&gt; Swift.Optional&lt;NewsMVVM.ArticleViewModel&gt;"
+                  moduleName = "NewsMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saadbarhoun/Desktop/NYTimes-CodeChallenge-SaadBarhoun/NY%20Times%20News/NewsMVVM/NewsListGroup/ViewModels/NewsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "4B3D442C-CA65-4707-8F39-6CA64D886F5B - a1a7809ffd49202b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMVVM.NewsListViewModel.articleAtIndex(Swift.Int) -&gt; Swift.Optional&lt;NewsMVVM.ArticleViewModel&gt;"
+                  moduleName = "NewsMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saadbarhoun/Desktop/NYTimes-CodeChallenge-SaadBarhoun/NY%20Times%20News/NewsMVVM/NewsListGroup/ViewModels/NewsListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "605">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "630D576C-09C9-49D9-9373-E6164C294B0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "abstract"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59A221E4-1BB3-42DB-A663-D0DD87F7B5EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVM/NewsDetailsGroup/ViewModels/DetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "DetailsViewModel"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
